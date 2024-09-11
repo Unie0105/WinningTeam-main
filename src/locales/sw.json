@@ -1,0 +1,172 @@
+{
+    "welcome": "Karibu kwenye programu yetu!",
+    "navbar": {
+        "title": "FURAHA UWEKEZAJI MDOGO",
+        "home": "Nyumbani",
+        "profile": "Wasifu wako",
+        "invest": "Wekeza",
+        "education": "Vyanzo vya Elimu",
+        "contact": "Wasiliana nasi",
+        "signup": "Jisajili",
+        "login": "Ingia",
+        "logout": "Toka"
+      },
+    "login": {
+      "username": "Jina la mtumiaji",
+      "password": "Nenosiri",
+      "submit": "Ingia"
+    },
+
+      "profile": {
+        "accountType": "Aina ya akaunti",
+        "totalInvested": "Jumla ya uwekezaji",
+        "returns": "Faida"
+      },
+        "contact": {
+          "title": "Wasiliana Nasi",
+          "name": "Jina",
+          "email": "Barua pepe",
+          "message": "Ujumbe",
+          "send": "Tuma"
+        },
+
+       "sidebar": {
+    "title": "Furaha Microinvestment",
+    "phone": "Simu",
+    "email": "Barua pepe",
+    "pobox": "Sanduku la Posta",
+    "city": "Dar es Salaam"
+  },
+          "education": {
+            "title": "Vyanzo vya Elimu",
+            "financialLiteracyTitle": "Maarifa ya Fedha",
+            "financialLiteracyDesc": "Maarifa ya fedha ni uwezo wa kuelewa na kutumia kwa ufanisi ujuzi mbalimbali wa kifedha. Inajumuisha kuelewa jinsi fedha inavyofanya kazi, jinsi ya kuihudumia, na jinsi ya kuwekeza kwa busara.",
+            "budgetingTitle": "Bajeti",
+            "budgetingDesc": "Bajeti ni mchakato wa kuunda mpango wa kudhibiti fedha zako. Inahusisha kufuatilia mapato na matumizi, kuweka malengo ya kifedha, na kufanya marekebisho ili kuhakikisha unaishi kulingana na kipato chako.",
+            "investmentGuidesTitle": "Mwongozo wa Uwekezaji",
+            "investmentGuidesDesc": "Miongozo ya uwekezaji inatoa ufahamu juu ya aina mbalimbali za uwekezaji, jinsi ya kuziangalia, na jinsi ya kujenga mseto wa uwekezaji. Ni muhimu kwa kufanya maamuzi sahihi ya uwekezaji.",
+            "learnMore": "Jifunze Zaidi"
+          },
+            "invest": {
+              "title": "Jitolee Na Sisi",
+              "chooseAccount": "Tafadhali chagua akaunti ya uwekezaji:",
+              "smallInvestment": "Uwekezaji Mdogo",
+              "mediumInvestment": "Uwekezaji wa Kati",
+              "largeInvestment": "Uwekezaji Mkubwa",
+              "selected": "Umechagua",
+              "chooseAmount": "Chagua kiasi",
+              "selectMobileMoney": "Chagua huduma ya fedha za simu unayoipendelea:",
+              "selectBank": "Chagua huduma ya benki unayoipendelea"
+            },
+              "signup": {
+                "title": "Jisajili",
+                "username": "Jina la mtumiaji",
+                "email": "Barua pepe",
+                "password": "Neno la siri",
+                "signUp": "Jisajili",
+                "success": "Usajili umefanikiwa!",
+                "failure": "Usajili umeshindwa!",
+                "serverError": "Kosa la seva. Tafadhali jaribu tena."
+              },
+                "login": {
+                  "title": "Ingiza",
+                  "email": "Barua pepe",
+                  "password": "Neno la siri",
+                  "login": "Ingiza",
+                  "success": "Kuingia kumefanikiwa!",
+                  "failure": "Kuingia kumeshindwa!",
+                  "serverError": "Kosa la seva. Tafadhali jaribu tena."
+                },
+                  "welcome": {
+                    "title": "Karibu kwenye programu yetu ya Uwekezaji.",
+                    "description": "Programu hii inakuwezesha kuokoa, kupanga bajeti, na kuwekeza kwa faida za baadaye."
+                  },
+                
+                    "hero": {
+                      "title": "Dhibiti Fedha Zako",
+                      "subtitle": "Fungua nguvu ya elimu ya kifedha ili kudhibiti maisha yako ya baadaye."
+                    },
+                    "cta": {
+                      "learnMore": "Jifunze Zaidi"
+                    },
+                    "content": {
+                      "whyItMattersTitle": "Kwa Nini Elimu ya Kifedha Ni Muhimu:",
+                      "whyItMattersText": "Elimu ya kifedha inakupa ujuzi na maarifa ya kudhibiti fedha zako kwa ufanisi. Inakuwezesha kufanya maamuzi sahihi, kupanga kwa ajili ya baadaye, na kujenga msingi thabiti wa kifedha.",
+                      "keyConceptsTitle": "Madhumuni Muhimu:",
+                      "concepts": {
+                        "managingFinances": "Kudhibiti Fedha za Kibinafsi:",
+                        "managingFinancesDesc": "Jifunze jinsi ya kupanga bajeti, kuokoa, na kutumia kwa busara.",
+                        "creditAndDebt": "Kuelewa Mikopo na Madeni:",
+                        "creditAndDebtDesc": "Jua jinsi ya kudhibiti alama za mikopo na kuepuka madeni yasiyo ya lazima.",
+                        "investingGrowth": "Kuwekeza kwa Ukuaji wa Baadaye:",
+                        "investingGrowthDesc": "Gundua jinsi ya kuwekeza kwenye hisa, dhamana, na mali nyingine ili kuongeza utajiri wako."
+                      },
+                      "finalText": "Kubaliana na elimu ya kifedha ili kufanya maamuzi ya kifedha yenye busara, kulinda maisha yako ya baadaye, na kufikia malengo yako ya kifedha. Anza safari yako leo na kubadilisha hali yako ya kifedha!"
+                    },
+                      "hero": {
+                        "title": "Dhibiti Sanaa ya Bajeti",
+                        "subtitle": "Unda mpango wa kifedha unaokusaidia kufikia malengo yako na kudhibiti matumizi yako ya fedha."
+                      },
+                      "content": {
+                        "whyBudgetingTitle": "Kwa Nini Bajeti Ni Muhimu:",
+                        "whyBudgetingText": "Bajeti ni zana yenye nguvu inayokusaidia kudhibiti fedha zako kwa ufanisi. Inakusaidia kufuatilia mapato yako na matumizi yako, kuhakikisha kuwa unatumia kwa mipaka na kufikia malengo yako ya kifedha. Kwa kuunda na kushikamana na bajeti, unaweza kuepuka madeni yasiyo ya lazima, kuokoa kwa mahitaji ya baadaye, na kufikia uthabiti wa kifedha.",
+                        "finalText": "Kutumia bajeti kunakusaidia kufanya maamuzi ya kifedha yenye taarifa, kuwa na nidhamu, na kufikia malengo yako ya kifedha ya muda mrefu. Anza kubajeti leo na udhibiti mustakabali wako wa kifedha!"
+                      },
+                      "cards": {
+                        "calculateIncome": {
+                          "title": "Hesabu Mapato Yako ya Kila Mwezi",
+                          "description": "Tambua vyanzo vyote vya mapato, ikiwa ni pamoja na mshahara, bonasi, na mapato mengine, ili kuelewa jumla ya fedha zako."
+                        },
+                        "listExpenses": {
+                          "title": "Orodhesha Matumizi Yako",
+                          "description": "Fuatilia matumizi yako yote, ikiwa ni pamoja na gharama zisizobadilika kama kodi na gharama zinazobadilika kama vyakula, ili kubaini maeneo ya kuokoa."
+                        },
+                        "setGoals": {
+                          "title": "Weka Malengo Yako ya Kifedha",
+                          "description": "Bainisha malengo wazi na yanayoweza kufikiwa ya kifedha kama vile kuokoa kwa ajili ya likizo, kulipa madeni, au kujenga akiba ya dharura."
+                        },
+                        "adjustSpending": {
+                          "title": "Badilisha Matumizi Yako",
+                          "description": "Kagua tabia zako za matumizi na uzibadilishe ili ziendane na bajeti na malengo yako ya kifedha. Punguza matumizi yasiyo ya lazima na upatie kipaumbele kuokoa."
+                        }
+                      },
+                  
+                        "investment-guides": {
+                          "header-title": "Mwongozo wa Uwekezaji",
+                          "header-description": "Gundua maarifa muhimu juu ya jinsi ya kutathmini aina tofauti za uwekezaji na kujenga mpango wa uwekezaji uliowekwa vizuri.",
+                          "intro-title": "Utangulizi wa Uwekezaji:",
+                          "intro-description": "Kuelewa jinsi ya kuwekeza kunaweza kusaidia kuongeza utajiri wako na kupanga usalama wa kifedha wa baadaye. Gundua mambo ya msingi ya aina tofauti za uwekezaji hapa chini.",
+                          "types-title": "Aina za Uwekezaji:",
+                          "types-options": {
+                            "stocks": "Hisa",
+                            "bonds": "Mabond",
+                            "real-estate": "Mali Isiyohamishika"
+                          
+                          },
+                          "stock-card": {
+                            "title": "Jifunze Zaidi Kuhusu Hisa:",
+                            "description": "Hisa hukuwezesha kuwekeza katika kampuni na kushiriki katika ukuaji na mafanikio yao."
+                          },
+                          "bonds-card": {
+                            "title": "Gundua Mabond:",
+                            "description": "Mabond ni uwekezaji salama unaotoa marejesho thabiti kwa muda."
+                          },
+                          "real-estate-card": {
+                            "title": "Wewekeza Katika Mali Isiyohamishika:",
+                            "description": "Mali isiyohamishika inahusisha kununua mali kwa ajili ya kupata mapato ya kodi au ongezeko la thamani."
+                          },
+                          "cta-description": "Chukua hatua ya kwanza kuelewa uwekezaji, na chagua mkakati sahihi ili kuhakikisha usalama wako wa kifedha."
+                        }
+                  
+                      
+                    }
+                    
+        
+              
+                  
+                  
+            
+                           
+
+  
+  

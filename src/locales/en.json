@@ -1,0 +1,161 @@
+{
+  "welcome": "Welcome to our app!",
+
+  "navbar": {
+    "title": "FURAHA MICROINVESTMENT",
+    "home": "Home",
+    "profile": "Your profile",
+    "invest": "Invest with us",
+    "education": "Education sources",
+    "contact": "Contact us",
+    "signup": "Sign up",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "login": {
+    "username": "Username",
+    "password": "Password",
+    "submit": "Login"
+  },
+
+  "profile": {
+    "accountType": "Account type",
+    "totalInvested": "Total Invested",
+    "returns": "Returns"
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "sidebar": {
+    "title": "Furaha Microinvestment",
+    "phone": "Phone",
+    "email": "Email",
+    "pobox": "P.O. Box",
+    "city": "Dar es Salaam"
+  },
+  "education": {
+    "title": "Education Sources",
+    "financialLiteracyTitle": "Financial Literacy",
+    "financialLiteracyDesc": "Financial literacy is the ability to understand and effectively use various financial skills. It includes understanding how money works, how to manage it, and how to invest it wisely.",
+    "budgetingTitle": "Budgeting",
+    "budgetingDesc": "Budgeting is the process of creating a plan to manage your money. It involves tracking income and expenses, setting financial goals, and making adjustments to ensure you live within your means.",
+    "investmentGuidesTitle": "Investment Guides",
+    "investmentGuidesDesc": "Investment guides provide insights into different types of investments, how to evaluate them, and how to build a diversified portfolio. They are essential for making informed investment decisions.",
+    "learnMore": "Learn More"
+  },
+  "invest": {
+    "title": "Invest With Us",
+    "chooseAccount": "Please choose an investment account:",
+    "smallInvestment": "Small Investment",
+    "mediumInvestment": "Medium Investment",
+    "largeInvestment": "Large Investment",
+    "selected": "You selected",
+    "chooseAmount": "Choose an amount",
+    "selectMobileMoney": "Select a mobile money service of your choice:",
+    "selectBank": "Select a bank service of your choice"
+  },
+  "signup": {
+    "title": "Sign Up",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "signUp": "Sign Up",
+    "success": "Signup successful!",
+    "failure": "Signup failed!",
+    "serverError": "Server error. Please try again."
+  },
+
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "success": "Login successful!",
+    "failure": "Login failed!",
+    "serverError": "Server error. Please try again."
+  },
+  "welcome": {
+    "title": "You are welcome to our Investment application.",
+    "description": "This application allows you to save, budget, and invest for future benefits."
+  },
+
+  "hero": {
+    "title": "Master Your Finances",
+    "subtitle": "Unlock the power of financial literacy to take control of your future."
+  },
+  "cta": {
+    "learnMore": "Learn More"
+  },
+  "content": {
+    "whyItMattersTitle": "Why Financial Literacy Matters:",
+    "whyItMattersText": "Financial literacy equips you with the knowledge and skills to manage your finances effectively. It empowers you to make informed decisions, plan for the future, and build a secure financial foundation.",
+    "keyConceptsTitle": "Key Concepts:",
+    "concepts": {
+      "managingFinances": "Managing Personal Finances:",
+      "managingFinancesDesc": "Learn how to budget, save, and spend wisely.",
+      "creditAndDebt": "Understanding Credit and Debt:",
+      "creditAndDebtDesc": "Know how to manage credit scores and avoid excessive debt.",
+      "investingGrowth": "Investing for Future Growth:",
+      "investingGrowthDesc": "Discover how to invest in stocks, bonds, and other assets to grow your wealth."
+    },
+    "finalText": "Embrace financial literacy to make smarter financial choices, secure your future, and achieve your financial goals. Start your journey today and transform your financial well-being!"
+  },
+  "hero": {
+    "title": "Master the Art of Budgeting",
+    "subtitle": "Create a financial plan that helps you achieve your goals and stay in control of your money."
+  },
+  "content": {
+    "whyBudgetingTitle": "Why Budgeting is Essential:",
+    "whyBudgetingText": "Budgeting is a powerful tool that helps you manage your finances effectively. It allows you to track your income and expenses, ensuring you stay within your means and work towards your financial goals. By creating and sticking to a budget, you can avoid unnecessary debt, save for future needs, and achieve financial stability.",
+    "finalText": "Implementing a budget helps you make informed financial decisions, stay disciplined, and achieve your long-term financial goals. Start budgeting today and take control of your financial future!"
+  },
+  "cards": {
+    "calculateIncome": {
+      "title": "Calculate Your Monthly Income",
+      "description": "Determine all sources of income, including salary, bonuses, and other earnings, to understand your total available funds."
+    },
+    "listExpenses": {
+      "title": "List Your Expenses",
+      "description": "Track all your spending, including fixed costs like rent and variable costs like groceries, to identify areas where you can save."
+    },
+    "setGoals": {
+      "title": "Set Your Financial Goals",
+      "description": "Define clear, achievable financial goals such as saving for a vacation, paying off debt, or building an emergency fund."
+    },
+    "adjustSpending": {
+      "title": "Adjust Your Spending",
+      "description": "Review your spending habits and adjust them to align with your budget and financial goals. Cut back on non-essential expenses and prioritize savings."
+    }
+  },
+
+  "investment-guides": {
+    "header-title": "Investment Guides",
+    "header-description": "Explore essential insights on how to evaluate different types of investments and build a diversified portfolio.",
+    "intro-title": "Introduction to Investments:",
+    "intro-description": "Understanding how to invest can help you grow your wealth and plan for future financial security. Explore the basics of different types of investments below.",
+    "types-title": "Types of Investments:",
+    "types-options": {
+      "stocks": "Stocks",
+      "bonds": "Bonds",
+      "real-estate": "Real Estate"
+    },
+    "stock-card": {
+      "title": "Learn More About Stocks:",
+      "description": "Stocks allow you to invest in companies and share in their growth and success."
+    },
+    "bonds-card": {
+      "title": "Explore Bonds:",
+      "description": "Bonds are a safer investment that offers stable returns over time."
+    },
+    "real-estate-card": {
+      "title": "Invest in Real Estate:",
+      "description": "Real estate involves purchasing property to generate rental income or capital appreciation."
+    },
+    "cta-description": "Take the first step to understanding investments, and choose the right strategy to secure your financial future."
+  }
+}
